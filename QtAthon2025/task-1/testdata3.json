@@ -1,0 +1,70 @@
+{
+    "data_clusters": [
+        {
+            "cluster_id": "cluster-4",
+            "received_time": "2025-09-12T12:00:00Z",
+            "readings": [
+                {
+                    "magnetic_field": 25.5,
+                    "sensor_id": "sensor-A",
+                    "sent_time": "2025-09-12T11:50:00Z"
+                },
+                {
+                    "magnetic_field": 25.5,
+                    "sensor_id": "sensor-A",
+                    "sent_time": "2025-09-12T11:50:00Z"
+                },
+                {
+                    "magnetic_field": 30.2,
+                    "sensor_id": "sensor-B",
+                    "sent_time": "2025-09-12T11:51:00Z"
+                },
+                {
+                    "magnetic_field": 30.2,
+                    "sensor_id": "sensor-B",
+                    "sent_time": "2025-09-12T11:51:00Z"
+                },
+                {
+                    "magnetic_field": 25.5,
+                    "sensor_id": "sensor-A",
+                    "sent_time": "2025-09-12T11:52:00Z"
+                },
+                {
+                    "magnetic_field": 30.2,
+                    "sensor_id": "sensor-B",
+                    "sent_time": "2025-09-12T11:53:00Z"
+                },
+                {
+                    "magnetic_field": 25.5,
+                    "sensor_id": "sensor-A",
+                    "sent_time": "2025-09-12T11:52:00Z"
+                },
+                {
+                    "magnetic_field": 30.2,
+                    "sensor_id": "sensor-B",
+                    "sent_time": "2025-09-12T11:53:00Z"
+                },
+                {
+                    "magnetic_field": 25.5,
+                    "sensor_id": "sensor-A",
+                    "sent_time": "2025-09-12T11:54:00Z"
+                },
+                {
+                    "magnetic_field": 30.2,
+                    "sensor_id": "sensor-B",
+                    "sent_time": "2025-09-12T11:55:00Z"
+                },
+                {
+                    "magnetic_field": 500.1,
+                    "sensor_id": "sensor-A",
+                    "sent_time": "2025-09-12T11:56:00Z"
+                },
+                {
+                    "magnetic_field": 1000.0,
+                    "sensor_id": "sensor-B",
+                    "sent_time": "2025-09-12T11:57:00Z"
+                }
+            ]
+        }
+    ]
+}

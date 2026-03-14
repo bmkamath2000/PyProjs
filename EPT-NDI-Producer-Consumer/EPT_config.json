@@ -1,0 +1,10 @@
+{
+  "device": "EPT",
+  "queue": "EPTQueue",
+  "rabbitmq": {
+    "host": "172.29.166.4",
+    "user": "myuser",
+    "password": "mypassword"
+  },
+  "log_file": "EPTLog.log"
+}

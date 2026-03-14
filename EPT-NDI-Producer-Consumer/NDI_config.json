@@ -1,0 +1,10 @@
+{
+  "device": "NDI",
+  "queue": "NDIQueue",
+  "rabbitmq": {
+    "host": "172.29.166.4",
+    "user": "myuser",
+    "password": "mypassword"
+  },
+  "log_file": "NDILog.log"
+}
