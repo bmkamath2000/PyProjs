@@ -5,7 +5,7 @@
 #define IR2_PIN 35  // second beam (outer)
 
 const char* ssid       = "Ise Staffroom";
-const char* password   = "JitIse@2026";
+const char* password   = "XXXXXXXXXXXXX";
 const char* mqttServer = "192.168.0.171"; // your broker IP
 const int   mqttPort   = 1883;
 const char* topic      = "bus/passengers";
