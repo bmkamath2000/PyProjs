@@ -1,0 +1,362 @@
+1793108305: mosquitto version 2.1.2 starting
+1793108305: Config loaded from C:\Users\kamat\OneDrive\Documents\GitHub\PyProjs\BMTCTRACK\bus-counter\mosquitto\mosquitto.conf.
+1793108305: Bridge support available.
+1793108305: Persistence support available.
+1793108305: TLS support available.
+1793108305: TLS-PSK support available.
+1793108305: Websockets support available.
+1793108305: Opening ipv6 listen socket on port 1883.
+1793108305: Opening ipv4 listen socket on port 1883.
+1793108305: mosquitto version 2.1.2 running
+1793108306: New connection from ::1:61079 on port 1883.
+1793108306: New client connected from ::1:61079 as mqttjs_a1dc2022 (p4, c1, k60).
+1793108306: No will message specified.
+1793108306: Sending CONNACK to mqttjs_a1dc2022 (0, 0)
+1793108306: Received SUBSCRIBE from mqttjs_a1dc2022
+1793108306: 	bus/passengers (QoS 0)
+1793108306: mqttjs_a1dc2022 0 bus/passengers
+1793108306: Sending SUBACK to mqttjs_a1dc2022
+1793108366: Received PINGREQ from mqttjs_a1dc2022
+1793108366: Sending PINGRESP to mqttjs_a1dc2022
+1793108420: mosquitto version 2.1.2 starting
+1793108420: Config loaded from C:\Users\kamat\OneDrive\Documents\GitHub\PyProjs\BMTCTRACK\bus-counter\mosquitto\mosquitto.conf.
+1793108420: Bridge support available.
+1793108420: Persistence support available.
+1793108420: TLS support available.
+1793108420: TLS-PSK support available.
+1793108420: Websockets support available.
+1793108420: Opening ipv6 listen socket on port 1883.
+1793108420: Opening ipv4 listen socket on port 1883.
+1793108420: mosquitto version 2.1.2 running
+1793108420: New connection from ::1:59123 on port 1883.
+1793108420: New client connected from ::1:59123 as mqttjs_a1dc2022 (p4, c1, k60).
+1793108420: No will message specified.
+1793108420: Sending CONNACK to mqttjs_a1dc2022 (0, 0)
+1793108420: Received SUBSCRIBE from mqttjs_a1dc2022
+1793108420: 	bus/passengers (QoS 0)
+1793108420: mqttjs_a1dc2022 0 bus/passengers
+1793108420: Sending SUBACK to mqttjs_a1dc2022
+1793108480: Received PINGREQ from mqttjs_a1dc2022
+1793108480: Sending PINGRESP to mqttjs_a1dc2022
+1793108540: Received PINGREQ from mqttjs_a1dc2022
+1793108540: Sending PINGRESP to mqttjs_a1dc2022
+1793108566: Client mqttjs_a1dc2022 [::1:59123] disconnected: connection closed by client.
+1793108576: New connection from ::1:52775 on port 1883.
+1793108576: New client connected from ::1:52775 as mqttjs_cfc9b5d0 (p4, c1, k60).
+1793108576: No will message specified.
+1793108576: Sending CONNACK to mqttjs_cfc9b5d0 (0, 0)
+1793108576: Received SUBSCRIBE from mqttjs_cfc9b5d0
+1793108576: 	bus/passengers (QoS 0)
+1793108576: mqttjs_cfc9b5d0 0 bus/passengers
+1793108576: Sending SUBACK to mqttjs_cfc9b5d0
+1793108636: Received PINGREQ from mqttjs_cfc9b5d0
+1793108636: Sending PINGRESP to mqttjs_cfc9b5d0
+1793108696: Received PINGREQ from mqttjs_cfc9b5d0
+1793108696: Sending PINGRESP to mqttjs_cfc9b5d0
+1793108756: Received PINGREQ from mqttjs_cfc9b5d0
+1793108756: Sending PINGRESP to mqttjs_cfc9b5d0
+1793108816: Received PINGREQ from mqttjs_cfc9b5d0
+1793108816: Sending PINGRESP to mqttjs_cfc9b5d0
+1793108876: Received PINGREQ from mqttjs_cfc9b5d0
+1793108876: Sending PINGRESP to mqttjs_cfc9b5d0
+1793108936: Received PINGREQ from mqttjs_cfc9b5d0
+1793108936: Sending PINGRESP to mqttjs_cfc9b5d0
+1793108996: Received PINGREQ from mqttjs_cfc9b5d0
+1793108996: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109056: Received PINGREQ from mqttjs_cfc9b5d0
+1793109056: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109116: Received PINGREQ from mqttjs_cfc9b5d0
+1793109116: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109176: Received PINGREQ from mqttjs_cfc9b5d0
+1793109176: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109236: Received PINGREQ from mqttjs_cfc9b5d0
+1793109236: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109296: Received PINGREQ from mqttjs_cfc9b5d0
+1793109296: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109356: Received PINGREQ from mqttjs_cfc9b5d0
+1793109356: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109416: Received PINGREQ from mqttjs_cfc9b5d0
+1793109416: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109476: Received PINGREQ from mqttjs_cfc9b5d0
+1793109476: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109536: Received PINGREQ from mqttjs_cfc9b5d0
+1793109536: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109596: Received PINGREQ from mqttjs_cfc9b5d0
+1793109596: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109656: Received PINGREQ from mqttjs_cfc9b5d0
+1793109656: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109716: Received PINGREQ from mqttjs_cfc9b5d0
+1793109716: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109776: Received PINGREQ from mqttjs_cfc9b5d0
+1793109776: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109836: Received PINGREQ from mqttjs_cfc9b5d0
+1793109836: Sending PINGRESP to mqttjs_cfc9b5d0
+1793109893: Client mqttjs_cfc9b5d0 [::1:52775] disconnected: connection closed by client.
+1793109895: New connection from ::1:56200 on port 1883.
+1793109895: New client connected from ::1:56200 as mqttjs_766bb6c3 (p4, c1, k60).
+1793109895: No will message specified.
+1793109895: Sending CONNACK to mqttjs_766bb6c3 (0, 0)
+1793109895: Received SUBSCRIBE from mqttjs_766bb6c3
+1793109895: 	bus/passengers (QoS 0)
+1793109895: mqttjs_766bb6c3 0 bus/passengers
+1793109895: Sending SUBACK to mqttjs_766bb6c3
+1793109955: Received PINGREQ from mqttjs_766bb6c3
+1793109955: Sending PINGRESP to mqttjs_766bb6c3
+1793110015: Received PINGREQ from mqttjs_766bb6c3
+1793110015: Sending PINGRESP to mqttjs_766bb6c3
+1793110075: Received PINGREQ from mqttjs_766bb6c3
+1793110075: Sending PINGRESP to mqttjs_766bb6c3
+1793110135: Received PINGREQ from mqttjs_766bb6c3
+1793110135: Sending PINGRESP to mqttjs_766bb6c3
+1793110195: Received PINGREQ from mqttjs_766bb6c3
+1793110195: Sending PINGRESP to mqttjs_766bb6c3
+1793110255: Received PINGREQ from mqttjs_766bb6c3
+1793110255: Sending PINGRESP to mqttjs_766bb6c3
+1793110315: Received PINGREQ from mqttjs_766bb6c3
+1793110315: Sending PINGRESP to mqttjs_766bb6c3
+1793110375: Received PINGREQ from mqttjs_766bb6c3
+1793110375: Sending PINGRESP to mqttjs_766bb6c3
+1793110435: Received PINGREQ from mqttjs_766bb6c3
+1793110435: Sending PINGRESP to mqttjs_766bb6c3
+1793110495: Received PINGREQ from mqttjs_766bb6c3
+1793110495: Sending PINGRESP to mqttjs_766bb6c3
+1793110555: Received PINGREQ from mqttjs_766bb6c3
+1793110555: Sending PINGRESP to mqttjs_766bb6c3
+1793110579: New connection from ::1:59799 on port 1883.
+1793110579: New client connected from ::1:59799 as auto-C26EF903-078D-87EA-D50C-037492D62C95 (p4, c1, k60).
+1793110579: No will message specified.
+1793110579: Sending CONNACK to auto-C26EF903-078D-87EA-D50C-037492D62C95 (0, 0)
+1793110579: Received SUBSCRIBE from auto-C26EF903-078D-87EA-D50C-037492D62C95
+1793110579: 	bus/passengers (QoS 0)
+1793110579: auto-C26EF903-078D-87EA-D50C-037492D62C95 0 bus/passengers
+1793110579: Sending SUBACK to auto-C26EF903-078D-87EA-D50C-037492D62C95
+1793110603: New connection from ::1:59825 on port 1883.
+1793110603: New client connected from ::1:59825 as auto-7E149120-F598-D09B-0D9E-05A81793D36E (p4, c1, k60).
+1793110603: No will message specified.
+1793110603: Sending CONNACK to auto-7E149120-F598-D09B-0D9E-05A81793D36E (0, 0)
+1793110603: Received PUBLISH from auto-7E149120-F598-D09B-0D9E-05A81793D36E (d0, q0, r0, m0, 'bus/passengers', ... (11 bytes))
+1793110603: Sending PUBLISH to mqttjs_766bb6c3 (d0, q0, r0, m0, 'bus/passengers', ... (11 bytes))
+1793110603: Sending PUBLISH to auto-C26EF903-078D-87EA-D50C-037492D62C95 (d0, q0, r0, m0, 'bus/passengers', ... (11 bytes))
+1793110603: Received DISCONNECT from auto-7E149120-F598-D09B-0D9E-05A81793D36E
+1793110603: Client auto-7E149120-F598-D09B-0D9E-05A81793D36E [::1:59825] disconnected.
+1793110615: Received PINGREQ from mqttjs_766bb6c3
+1793110615: Sending PINGRESP to mqttjs_766bb6c3
+1793110624: Client auto-C26EF903-078D-87EA-D50C-037492D62C95 [::1:59799] disconnected: connection closed by client.
+1793110675: Received PINGREQ from mqttjs_766bb6c3
+1793110675: Sending PINGRESP to mqttjs_766bb6c3
+1793110735: Received PINGREQ from mqttjs_766bb6c3
+1793110735: Sending PINGRESP to mqttjs_766bb6c3
+1793110795: Received PINGREQ from mqttjs_766bb6c3
+1793110795: Sending PINGRESP to mqttjs_766bb6c3
+1793110855: Received PINGREQ from mqttjs_766bb6c3
+1793110855: Sending PINGRESP to mqttjs_766bb6c3
+1793110862: Client mqttjs_766bb6c3 [::1:56200] disconnected: connection closed by client.
+1793110864: New connection from ::1:57491 on port 1883.
+1793110864: New client connected from ::1:57491 as mqttjs_eff6232a (p4, c1, k60).
+1793110864: No will message specified.
+1793110864: Sending CONNACK to mqttjs_eff6232a (0, 0)
+1793110864: Received SUBSCRIBE from mqttjs_eff6232a
+1793110864: 	bus/passengers (QoS 0)
+1793110864: mqttjs_eff6232a 0 bus/passengers
+1793110864: Sending SUBACK to mqttjs_eff6232a
+1793110924: Received PINGREQ from mqttjs_eff6232a
+1793110924: Sending PINGRESP to mqttjs_eff6232a
+1793110984: Received PINGREQ from mqttjs_eff6232a
+1793110984: Sending PINGRESP to mqttjs_eff6232a
+1793111044: Received PINGREQ from mqttjs_eff6232a
+1793111044: Sending PINGRESP to mqttjs_eff6232a
+1793111104: Received PINGREQ from mqttjs_eff6232a
+1793111104: Sending PINGRESP to mqttjs_eff6232a
+1793111164: Received PINGREQ from mqttjs_eff6232a
+1793111164: Sending PINGRESP to mqttjs_eff6232a
+1793111224: Received PINGREQ from mqttjs_eff6232a
+1793111224: Sending PINGRESP to mqttjs_eff6232a
+1793111284: Received PINGREQ from mqttjs_eff6232a
+1793111284: Sending PINGRESP to mqttjs_eff6232a
+1793111344: Received PINGREQ from mqttjs_eff6232a
+1793111344: Sending PINGRESP to mqttjs_eff6232a
+1793111405: Received PINGREQ from mqttjs_eff6232a
+1793111405: Sending PINGRESP to mqttjs_eff6232a
+1793111465: Received PINGREQ from mqttjs_eff6232a
+1793111465: Sending PINGRESP to mqttjs_eff6232a
+1793111525: Received PINGREQ from mqttjs_eff6232a
+1793111525: Sending PINGRESP to mqttjs_eff6232a
+1793111585: Received PINGREQ from mqttjs_eff6232a
+1793111585: Sending PINGRESP to mqttjs_eff6232a
+1793111596: Client mqttjs_eff6232a [::1:57491] disconnected: connection closed by client.
+1793111598: New connection from ::1:57951 on port 1883.
+1793111598: New client connected from ::1:57951 as mqttjs_d369e5e2 (p4, c1, k60).
+1793111598: No will message specified.
+1793111598: Sending CONNACK to mqttjs_d369e5e2 (0, 0)
+1793111598: Received SUBSCRIBE from mqttjs_d369e5e2
+1793111598: 	bus/passengers (QoS 0)
+1793111598: mqttjs_d369e5e2 0 bus/passengers
+1793111598: Sending SUBACK to mqttjs_d369e5e2
+1793111658: Received PINGREQ from mqttjs_d369e5e2
+1793111658: Sending PINGRESP to mqttjs_d369e5e2
+1793111718: Received PINGREQ from mqttjs_d369e5e2
+1793111718: Sending PINGRESP to mqttjs_d369e5e2
+1793111778: Received PINGREQ from mqttjs_d369e5e2
+1793111778: Sending PINGRESP to mqttjs_d369e5e2
+1793111838: Received PINGREQ from mqttjs_d369e5e2
+1793111838: Sending PINGRESP to mqttjs_d369e5e2
+1793111898: Received PINGREQ from mqttjs_d369e5e2
+1793111898: Sending PINGRESP to mqttjs_d369e5e2
+1793111958: Received PINGREQ from mqttjs_d369e5e2
+1793111958: Sending PINGRESP to mqttjs_d369e5e2
+1793112018: Received PINGREQ from mqttjs_d369e5e2
+1793112018: Sending PINGRESP to mqttjs_d369e5e2
+1793112067: Client mqttjs_d369e5e2 [::1:57951] disconnected: connection closed by client.
+1793112068: New connection from ::1:58027 on port 1883.
+1793112068: New client connected from ::1:58027 as mqttjs_69c08eb2 (p4, c1, k60).
+1793112068: No will message specified.
+1793112068: Sending CONNACK to mqttjs_69c08eb2 (0, 0)
+1793112068: Received SUBSCRIBE from mqttjs_69c08eb2
+1793112068: 	bus/passengers (QoS 0)
+1793112068: mqttjs_69c08eb2 0 bus/passengers
+1793112068: Sending SUBACK to mqttjs_69c08eb2
+1793112071: Client mqttjs_69c08eb2 [::1:58027] disconnected: connection closed by client.
+1793112103: mosquitto version 2.1.2 starting
+1793112103: Config loaded from C:\Users\kamat\OneDrive\Documents\GitHub\PyProjs\BMTCTRACK\bus-counter\mosquitto\mosquitto.conf.
+1793112103: Bridge support available.
+1793112103: Persistence support available.
+1793112103: TLS support available.
+1793112103: TLS-PSK support available.
+1793112103: Websockets support available.
+1793112103: Opening ipv6 listen socket on port 1883.
+1793112103: Opening ipv4 listen socket on port 1883.
+1793112103: mosquitto version 2.1.2 running
+1793112110: New connection from ::1:53063 on port 1883.
+1793112110: New client connected from ::1:53063 as mqttjs_5e4b4c40 (p4, c1, k60).
+1793112110: No will message specified.
+1793112110: Sending CONNACK to mqttjs_5e4b4c40 (0, 0)
+1793112110: Received SUBSCRIBE from mqttjs_5e4b4c40
+1793112110: 	bus/passengers (QoS 0)
+1793112110: mqttjs_5e4b4c40 0 bus/passengers
+1793112110: Sending SUBACK to mqttjs_5e4b4c40
+1793112114: Client mqttjs_5e4b4c40 [::1:53063] disconnected: connection closed by client.
+1793112119: mosquitto version 2.1.2 terminating
+1793112131: mosquitto version 2.1.2 starting
+1793112131: Config loaded from C:\Users\kamat\OneDrive\Documents\GitHub\PyProjs\BMTCTRACK\bus-counter\mosquitto\mosquitto.conf.
+1793112131: Bridge support available.
+1793112131: Persistence support available.
+1793112131: TLS support available.
+1793112131: TLS-PSK support available.
+1793112131: Websockets support available.
+1793112131: Opening ipv6 listen socket on port 1883.
+1793112131: Opening ipv4 listen socket on port 1883.
+1793112131: mosquitto version 2.1.2 running
+1793112131: New connection from ::1:52737 on port 1883.
+1793112131: New client connected from ::1:52737 as mqttjs_dc27482c (p4, c1, k60).
+1793112131: No will message specified.
+1793112131: Sending CONNACK to mqttjs_dc27482c (0, 0)
+1793112131: Received SUBSCRIBE from mqttjs_dc27482c
+1793112131: 	bus/passengers (QoS 0)
+1793112131: mqttjs_dc27482c 0 bus/passengers
+1793112131: Sending SUBACK to mqttjs_dc27482c
+1793112191: Received PINGREQ from mqttjs_dc27482c
+1793112191: Sending PINGRESP to mqttjs_dc27482c
+1793112251: Received PINGREQ from mqttjs_dc27482c
+1793112251: Sending PINGRESP to mqttjs_dc27482c
+1793112311: Received PINGREQ from mqttjs_dc27482c
+1793112311: Sending PINGRESP to mqttjs_dc27482c
+1793112371: Received PINGREQ from mqttjs_dc27482c
+1793112371: Sending PINGRESP to mqttjs_dc27482c
+1793112431: Received PINGREQ from mqttjs_dc27482c
+1793112431: Sending PINGRESP to mqttjs_dc27482c
+1793112491: Received PINGREQ from mqttjs_dc27482c
+1793112491: Sending PINGRESP to mqttjs_dc27482c
+1793112551: Received PINGREQ from mqttjs_dc27482c
+1793112551: Sending PINGRESP to mqttjs_dc27482c
+1793112611: Received PINGREQ from mqttjs_dc27482c
+1793112611: Sending PINGRESP to mqttjs_dc27482c
+1793112671: Received PINGREQ from mqttjs_dc27482c
+1793112671: Sending PINGRESP to mqttjs_dc27482c
+1793112731: Received PINGREQ from mqttjs_dc27482c
+1793112731: Sending PINGRESP to mqttjs_dc27482c
+1793112791: Received PINGREQ from mqttjs_dc27482c
+1793112791: Sending PINGRESP to mqttjs_dc27482c
+1793112851: Received PINGREQ from mqttjs_dc27482c
+1793112851: Sending PINGRESP to mqttjs_dc27482c
+1793112911: Received PINGREQ from mqttjs_dc27482c
+1793112911: Sending PINGRESP to mqttjs_dc27482c
+1793112971: Received PINGREQ from mqttjs_dc27482c
+1793112971: Sending PINGRESP to mqttjs_dc27482c
+1793113031: Received PINGREQ from mqttjs_dc27482c
+1793113031: Sending PINGRESP to mqttjs_dc27482c
+1793113091: Received PINGREQ from mqttjs_dc27482c
+1793113091: Sending PINGRESP to mqttjs_dc27482c
+1793113151: Received PINGREQ from mqttjs_dc27482c
+1793113151: Sending PINGRESP to mqttjs_dc27482c
+1793113211: Received PINGREQ from mqttjs_dc27482c
+1793113211: Sending PINGRESP to mqttjs_dc27482c
+1793113271: Received PINGREQ from mqttjs_dc27482c
+1793113271: Sending PINGRESP to mqttjs_dc27482c
+1793113312: Client mqttjs_dc27482c [::1:52737] disconnected: connection closed by client.
+1793113342: mosquitto version 2.1.2 starting
+1793113342: Config loaded from C:\Users\kamat\OneDrive\Documents\GitHub\PyProjs\BMTCTRACK\bus-counter\mosquitto\mosquitto.conf.
+1793113342: Bridge support available.
+1793113342: Persistence support available.
+1793113342: TLS support available.
+1793113342: TLS-PSK support available.
+1793113342: Websockets support available.
+1793113342: Opening ipv4 listen socket on port 1883.
+1793113342: mosquitto version 2.1.2 running
+1793113343: New connection from 127.0.0.1:61393 on port 1883.
+1793113343: New client connected from 127.0.0.1:61393 as mqttjs_3a3348c9 (p4, c1, k60).
+1793113343: No will message specified.
+1793113343: Sending CONNACK to mqttjs_3a3348c9 (0, 0)
+1793113343: Received SUBSCRIBE from mqttjs_3a3348c9
+1793113343: 	bus/passengers (QoS 0)
+1793113343: mqttjs_3a3348c9 0 bus/passengers
+1793113343: Sending SUBACK to mqttjs_3a3348c9
+1793113403: Received PINGREQ from mqttjs_3a3348c9
+1793113403: Sending PINGRESP to mqttjs_3a3348c9
+1793113463: Received PINGREQ from mqttjs_3a3348c9
+1793113463: Sending PINGRESP to mqttjs_3a3348c9
+1793113523: Received PINGREQ from mqttjs_3a3348c9
+1793113523: Sending PINGRESP to mqttjs_3a3348c9
+1793113583: Received PINGREQ from mqttjs_3a3348c9
+1793113583: Sending PINGRESP to mqttjs_3a3348c9
+1793113643: Received PINGREQ from mqttjs_3a3348c9
+1793113643: Sending PINGRESP to mqttjs_3a3348c9
+1793113703: Received PINGREQ from mqttjs_3a3348c9
+1793113703: Sending PINGRESP to mqttjs_3a3348c9
+1793113763: Received PINGREQ from mqttjs_3a3348c9
+1793113763: Sending PINGRESP to mqttjs_3a3348c9
+1793113823: Received PINGREQ from mqttjs_3a3348c9
+1793113823: Sending PINGRESP to mqttjs_3a3348c9
+1793113883: Received PINGREQ from mqttjs_3a3348c9
+1793113883: Sending PINGRESP to mqttjs_3a3348c9
+1793113943: Received PINGREQ from mqttjs_3a3348c9
+1793113943: Sending PINGRESP to mqttjs_3a3348c9
+1793114003: Received PINGREQ from mqttjs_3a3348c9
+1793114003: Sending PINGRESP to mqttjs_3a3348c9
+1793114063: Received PINGREQ from mqttjs_3a3348c9
+1793114063: Sending PINGRESP to mqttjs_3a3348c9
+1793114123: Received PINGREQ from mqttjs_3a3348c9
+1793114123: Sending PINGRESP to mqttjs_3a3348c9
+1793114183: Received PINGREQ from mqttjs_3a3348c9
+1793114183: Sending PINGRESP to mqttjs_3a3348c9
+1793114243: Received PINGREQ from mqttjs_3a3348c9
+1793114243: Sending PINGRESP to mqttjs_3a3348c9
+1793114303: Received PINGREQ from mqttjs_3a3348c9
+1793114303: Sending PINGRESP to mqttjs_3a3348c9
+1793114363: Received PINGREQ from mqttjs_3a3348c9
+1793114363: Sending PINGRESP to mqttjs_3a3348c9
+1793114423: Received PINGREQ from mqttjs_3a3348c9
+1793114423: Sending PINGRESP to mqttjs_3a3348c9
+1793114483: Received PINGREQ from mqttjs_3a3348c9
+1793114483: Sending PINGRESP to mqttjs_3a3348c9
+1793114543: Received PINGREQ from mqttjs_3a3348c9
+1793114543: Sending PINGRESP to mqttjs_3a3348c9
+1793114603: Received PINGREQ from mqttjs_3a3348c9
+1793114603: Sending PINGRESP to mqttjs_3a3348c9
+1793114664: Received PINGREQ from mqttjs_3a3348c9
+1793114664: Sending PINGRESP to mqttjs_3a3348c9
+1793114724: Received PINGREQ from mqttjs_3a3348c9
+1793114724: Sending PINGRESP to mqttjs_3a3348c9
+1793114784: Received PINGREQ from mqttjs_3a3348c9
+1793114784: Sending PINGRESP to mqttjs_3a3348c9
+1793114844: Received PINGREQ from mqttjs_3a3348c9
+1793114844: Sending PINGRESP to mqttjs_3a3348c9
