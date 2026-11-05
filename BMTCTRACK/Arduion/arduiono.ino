@@ -4,7 +4,7 @@
 #define IR_PIN 34
 
 const char* ssid       = "Ise Staffroom";
-const char* password   = "JitIse@2026";
+const char* password   = "XXXXXXXXXXXX";
 const char* mqttServer = "192.168.0.171";
 const int   mqttPort   = 1883;
 const char* topic      = "bus/passengers";
